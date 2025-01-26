@@ -1,0 +1,26 @@
+body{
+    background-color: #CCD7E4;
+}
+.img{
+    height: auto;
+    width: 20%;
+}
+.all{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.kentukis{
+    border: 5px solid #CEEAF7;
+    width: 11%;
+    padding: 3px;
+    margin: 0px 44%;
+    border-radius: 5px;
+    background-color: #828A95;
+}
+a:hover{
+    color: #CEEAF7;
+}
+a{
+color: black;
+text-decoration: none;
+}
